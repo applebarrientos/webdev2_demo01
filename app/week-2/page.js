@@ -13,7 +13,7 @@ export default function Page(){
             <p>these are demos for week 2</p>
             <p>the sum of a + b is {a + b}.</p>
             <p>go back to <Link href="/">the home page</Link></p>
-            <p>see my changes</p>
+            <p><Link href="/">see my changes</Link></p>
         </main>
     )
 }
